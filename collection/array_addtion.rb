@@ -30,4 +30,4 @@ p grocery_list.include?("eggs")
 
 item = grocery_list.at(3)
 p "tem is #{item}"
-
+p "hello"
